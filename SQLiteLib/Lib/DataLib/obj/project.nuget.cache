@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Usk2DTWQbcH9CrWG/AviWCJYbTSMm31TOMbA/7EaYtfpINYK2dkXSxS1HxIumZrz0zpNf4PI607ElGnV7+IV+w==",
+  "success": true,
+  "projectFilePath": "D:\\01_Git\\Sqlite\\SQLiteLib\\Lib\\DataLib\\DataLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\autofac\\6.5.0\\autofac.6.5.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

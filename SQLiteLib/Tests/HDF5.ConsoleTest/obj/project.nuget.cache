@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "wvTBna2naupEAMMj8GIjeMjvQcXu+uYgyJtp66cM9m614kqIWQl7XjFomgbQkrIwddSZi9oSRngVVKXYvtqvrA==",
+  "success": true,
+  "projectFilePath": "D:\\01_Git\\Sqlite\\SQLiteLib\\Tests\\HDF5.ConsoleTest\\HDF5.ConsoleTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\autofac\\6.5.0\\autofac.6.5.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\hdf.pinvoke.1.10\\1.10.612\\hdf.pinvoke.1.10.1.10.612.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\hdf5-csharp\\1.16.2\\hdf5-csharp.1.16.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\hdf5.net\\1.0.0-alpha.22\\hdf5.net.1.0.0-alpha.22.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\spectre.console\\0.46.0\\spectre.console.0.46.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.resources.extensions\\7.0.0\\system.resources.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
